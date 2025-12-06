@@ -1,14 +1,15 @@
-# Unilar Móveis 🪑
+# Unilar Móveis 
 
 <div align="center">
   <img src="./assets/logo-unilar.png" alt="Logo Unilar Móveis" width="200">
-  <br>
-  </div>
-<br>
+  <br><br>
 
-![Status](https://img.shields.io/badge/status-em_planejamento-yellow)
-![React](https://img.shields.io/badge/frontend-React-blue)
-![Node](https://img.shields.io/badge/backend-Node.js-green)
+  ![Status](https://img.shields.io/badge/status-em_planejamento-yellow)
+  ![React](https://img.shields.io/badge/frontend-React-blue)
+  ![Node](https://img.shields.io/badge/backend-Node.js-green)
+</div>
+
+<br>
 
 > Projeto de e-commerce focado em mobiliário, desenvolvido com o objetivo de estudo aprofundado em desenvolvimento web Full Stack.
 
